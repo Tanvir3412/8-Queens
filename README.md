@@ -1,2 +1,2 @@
 # 8-Queens
-I found this project is very interesting because I did similar project using GOTO which I removed it from here. However, I am implementing the same algorithm using backtracking and 1 dimensional array
+I found this project to be interesting because I did similar project using GOTO previous but this however this implements the same algorithm using backtracking and 1 dimensional array. 
